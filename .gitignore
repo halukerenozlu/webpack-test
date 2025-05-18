@@ -1,0 +1,15 @@
+# node.js bağımlılık klasörü
+node_modules/
+
+# Log dosyaları
+npm-debug.log*
+
+# Ortam değişkenleri dosyası
+.env
+
+# VSCode ayarları
+.vscode/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
